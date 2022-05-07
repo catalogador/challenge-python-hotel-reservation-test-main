@@ -1,0 +1,11 @@
+Bom, Apenas umas informações sobre o código..
+
+Separei em dois modulos:
+
+testavel.py  -- Aqui você poderá testar o codigo, mudando as datas e tipo_de_cliente a vontade.
+
+main.py  -- Aqui é o codigo que faz parte do py.test, dentro dele a uma função (com as mesmas linhas de comando do testavel.py)
+
+
+Resumindo minha experiencia com a atividade,me empenhei para deixar o codigo simples e util,
+e quero me juntar a equipe Syngenta para aprender mais e contribuir com meu desejo criativo.
